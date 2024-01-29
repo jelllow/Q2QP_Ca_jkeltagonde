@@ -82,6 +82,11 @@ nav{
     height: 300px;
 }
 
+.contacts{
+    color: burlywood;
+    font-weight: 500;
+}
+
 .icon{
     background: url(../media/sprite.png) no-repeat -141px -221px;
 	width: 66px;
